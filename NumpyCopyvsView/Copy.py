@@ -15,3 +15,5 @@ arry[0] = 44
 
 print(arry)
 print(x)
+
+# The copy SHOULD NOT be affected by the changes made to the original array.
